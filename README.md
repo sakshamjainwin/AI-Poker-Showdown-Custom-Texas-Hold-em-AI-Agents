@@ -1,5 +1,5 @@
 
-# **AI Poker Showdown 2024: Custom Texas Hold'em AI Agents**
+# **Texas Hold'em Poker : Custom AI Agents**
 
 This project simulates a competitive Texas Hold'em poker environment where multiple AI agents with unique strategies compete against each other. Using the `pypokerengine` library, this project allows for testing, benchmarking, and enhancing poker-playing agents through various decision-making strategies.
 
